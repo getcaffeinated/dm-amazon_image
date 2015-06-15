@@ -1,0 +1,8 @@
+source 'http://gems.rubyforge.org'
+gem 'aws-s3',            '0.6.2', :require => 'aws/s3'
+gem 'dm-core',           '1.0.2'
+gem 'dm-sqlite-adapter', '1.0.2'
+gem 'dm-migrations',     '1.0.2'
+gem 'contest',           '0.1.2'
+gem 'rest-client',       '1.6.1'
+gem 'ruby-debug',        '0.10.4'
